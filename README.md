@@ -1,1 +1,1 @@
-# practicas-EED
+# Practicas entorno del desarrollo
