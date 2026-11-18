@@ -8,4 +8,4 @@ Capturas de pantalla del proceso completo:
 
 ## Archivo
 
-- [subir repositorios.pdf](subir%20repositorios.pdf)
+- [SUBIR REPOSITORIOS.pdf](SUBIR%20REPOSITORIOS.pdf)
